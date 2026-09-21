@@ -1,7 +1,7 @@
 # 盒盒小墨点 · 黑白漫画风SKILL
 
 <p align="center">
-  <img src="assets/examples/01-arale-adult.png" width="270" alt="小墨点风格的阿拉蕾成年版黑白线稿示例">
+  <img src="assets/examples/00-ten-character-lineup_CO.png" width="1000" alt="盒盒小墨点十角色单排群像">
 </p>
 
 <p align="center">
