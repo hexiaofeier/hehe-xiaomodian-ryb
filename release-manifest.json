@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "display_name": "盒盒小墨点",
+  "repository_slug": "hehe-xiaomodian-ryb",
+  "version": "2026.09.21",
+  "namespace": "hehe-",
+  "skills": [
+    {
+      "name": "hehe-xiaomodian-ryb",
+      "role": "standalone"
+    }
+  ],
+  "license": "MIT"
+}
