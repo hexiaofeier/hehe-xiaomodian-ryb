@@ -1,4 +1,4 @@
-# 盒盒小墨点 · 黑白线稿与红黄蓝点缀
+# 盒盒小墨点 · 黑白漫画风SKILL
 
 <p align="center">
   <img src="assets/examples/01-arale-adult.png" width="270" alt="小墨点风格的阿拉蕾成年版黑白线稿示例">
